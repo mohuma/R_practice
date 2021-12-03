@@ -1,0 +1,19 @@
+---
+title: "sample"
+author: "mohuma"
+date: "02/12/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r echo=F}
+n <- 32
+```
+
+Here `r n` cars are compared
+
